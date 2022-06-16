@@ -1,0 +1,6 @@
+100	Ivan	3
+20	Ivan	2
+1	Ivan	1
+160	Marti	1
+80	Marti	2
+60	Marti	3

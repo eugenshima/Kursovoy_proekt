@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FileCreator">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABABAAAAAAAAIAAAAAAAAAAAACCBgAAAAAAAAAAAAA=</HashCode>
+      <FileName>FileCreator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Human">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABEIAAAAAAEEAAAAAIIMAAAAAAAEAABACAAEigQAEIA=</HashCode>
+      <FileName>Human.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Menu">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAQAAAAAAAQAAAAAAADAAQEAAAIAAAAIAAAAAAA=</HashCode>
+      <FileName>Menu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rating">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BEAAYAAAAAEQAAAAAAAAIAACAQAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rating.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Server">
+    <Position X="10" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAgAAAAAAAAAEAAAAAASAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Server.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Statistick">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQBBQBAIAAAAAAAAIAEEAgAAAAIDkIEAAAASQAAAAE=</HashCode>
+      <FileName>Statistick.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="User" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAGBIIAEAEAQBQQJAADCDAKgAmAxAAEAAgAhAEAACoA=</HashCode>
+      <FileName>User.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
